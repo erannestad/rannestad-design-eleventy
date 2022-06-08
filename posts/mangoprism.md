@@ -2,8 +2,8 @@
 title: Mangoprism
 date: 2020-10-15T12:23:39.598Z
 client: Mangoprism
-summary: Mangozine and website
-thumbnail: null
+summary: This is an edit from localhost:8080.
+thumbnail: /static/img/logo1.1.jpg
 image: /static/img/logo1.1.jpg
 tags:
   - print
