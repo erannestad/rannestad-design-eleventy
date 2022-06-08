@@ -3,7 +3,8 @@ title: Mangoprism
 date: 2020-10-15T12:23:39.598Z
 client: Mangoprism
 summary: Mangozine and website
-thumbnail: 
+thumbnail: null
+image: /static/img/logo1.1.jpg
 tags:
   - print
   - dev
